@@ -1,0 +1,1000 @@
+ País: Andorra
+ Población: 84000
+ Área (km²):468.0
+  -------------- 
+ País: United Arab Emirates
+ Población: 4975593
+ Área (km²):82880.0
+  -------------- 
+ País: Afghanistan
+ Población: 29121286
+ Área (km²):647500.0
+  -------------- 
+ País: Antigua and Barbuda
+ Población: 86754
+ Área (km²):443.0
+  -------------- 
+ País: Anguilla
+ Población: 13254
+ Área (km²):102.0
+  -------------- 
+ País: Albania
+ Población: 2986952
+ Área (km²):28748.0
+  -------------- 
+ País: Armenia
+ Población: 2968000
+ Área (km²):29800.0
+  -------------- 
+ País: Angola
+ Población: 13068161
+ Área (km²):1246700.0
+  -------------- 
+ País: Antarctica
+ Población: 0
+ Área (km²):1.4E7
+  -------------- 
+ País: Argentina
+ Población: 41343201
+ Área (km²):2766890.0
+  -------------- 
+ País: American Samoa
+ Población: 57881
+ Área (km²):199.0
+  -------------- 
+ País: Austria
+ Población: 8205000
+ Área (km²):83858.0
+  -------------- 
+ País: Australia
+ Población: 21515754
+ Área (km²):7686850.0
+  -------------- 
+ País: Aruba
+ Población: 71566
+ Área (km²):193.0
+  -------------- 
+ País: Åland
+ Población: 26711
+ Área (km²):1580.0
+  -------------- 
+ País: Azerbaijan
+ Población: 8303512
+ Área (km²):86600.0
+  -------------- 
+ País: Bosnia and Herzegovina
+ Población: 4590000
+ Área (km²):51129.0
+  -------------- 
+ País: Barbados
+ Población: 285653
+ Área (km²):431.0
+  -------------- 
+ País: Bangladesh
+ Población: 156118464
+ Área (km²):144000.0
+  -------------- 
+ País: Belgium
+ Población: 10403000
+ Área (km²):30510.0
+  -------------- 
+ País: Burkina Faso
+ Población: 16241811
+ Área (km²):274200.0
+  -------------- 
+ País: Bulgaria
+ Población: 7148785
+ Área (km²):110910.0
+  -------------- 
+ País: Bahrain
+ Población: 738004
+ Área (km²):665.0
+  -------------- 
+ País: Burundi
+ Población: 9863117
+ Área (km²):27830.0
+  -------------- 
+ País: Benin
+ Población: 9056010
+ Área (km²):112620.0
+  -------------- 
+ País: Saint Barthélemy
+ Población: 8450
+ Área (km²):21.0
+  -------------- 
+ País: Bermuda
+ Población: 65365
+ Área (km²):53.0
+  -------------- 
+ País: Brunei
+ Población: 395027
+ Área (km²):5770.0
+  -------------- 
+ País: Bolivia
+ Población: 9947418
+ Área (km²):1098580.0
+  -------------- 
+ País: Bonaire
+ Población: 18012
+ Área (km²):328.0
+  -------------- 
+ País: Brazil
+ Población: 201103330
+ Área (km²):8511965.0
+  -------------- 
+ País: Bahamas
+ Población: 301790
+ Área (km²):13940.0
+  -------------- 
+ País: Bhutan
+ Población: 699847
+ Área (km²):47000.0
+  -------------- 
+ País: Bouvet Island
+ Población: 0
+ Área (km²):49.0
+  -------------- 
+ País: Botswana
+ Población: 2029307
+ Área (km²):600370.0
+  -------------- 
+ País: Belarus
+ Población: 9685000
+ Área (km²):207600.0
+  -------------- 
+ País: Belize
+ Población: 314522
+ Área (km²):22966.0
+  -------------- 
+ País: Canada
+ Población: 33679000
+ Área (km²):9984670.0
+  -------------- 
+ País: Cocos [Keeling] Islands
+ Población: 628
+ Área (km²):14.0
+  -------------- 
+ País: Democratic Republic of the Congo
+ Población: 70916439
+ Área (km²):2345410.0
+  -------------- 
+ País: Central African Republic
+ Población: 4844927
+ Área (km²):622984.0
+  -------------- 
+ País: Republic of the Congo
+ Población: 3039126
+ Área (km²):342000.0
+  -------------- 
+ País: Switzerland
+ Población: 7581000
+ Área (km²):41290.0
+  -------------- 
+ País: Ivory Coast
+ Población: 21058798
+ Área (km²):322460.0
+  -------------- 
+ País: Cook Islands
+ Población: 21388
+ Área (km²):240.0
+  -------------- 
+ País: Chile
+ Población: 16746491
+ Área (km²):756950.0
+  -------------- 
+ País: Cameroon
+ Población: 19294149
+ Área (km²):475440.0
+  -------------- 
+ País: China
+ Población: 1330044000
+ Área (km²):9596960.0
+  -------------- 
+ País: Colombia
+ Población: 47790000
+ Área (km²):1138910.0
+  -------------- 
+ País: Costa Rica
+ Población: 4516220
+ Área (km²):51100.0
+  -------------- 
+ País: Cuba
+ Población: 11423000
+ Área (km²):110860.0
+  -------------- 
+ País: Cape Verde
+ Población: 508659
+ Área (km²):4033.0
+  -------------- 
+ País: Curacao
+ Población: 141766
+ Área (km²):444.0
+  -------------- 
+ País: Christmas Island
+ Población: 1500
+ Área (km²):135.0
+  -------------- 
+ País: Cyprus
+ Población: 1102677
+ Área (km²):9250.0
+  -------------- 
+ País: Czech Republic
+ Población: 10476000
+ Área (km²):78866.0
+  -------------- 
+ País: Germany
+ Población: 81802257
+ Área (km²):357021.0
+  -------------- 
+ País: Djibouti
+ Población: 740528
+ Área (km²):23000.0
+  -------------- 
+ País: Denmark
+ Población: 5484000
+ Área (km²):43094.0
+  -------------- 
+ País: Dominica
+ Población: 72813
+ Área (km²):754.0
+  -------------- 
+ País: Dominican Republic
+ Población: 9823821
+ Área (km²):48730.0
+  -------------- 
+ País: Algeria
+ Población: 34586184
+ Área (km²):2381740.0
+  -------------- 
+ País: Ecuador
+ Población: 14790608
+ Área (km²):283560.0
+  -------------- 
+ País: Estonia
+ Población: 1291170
+ Área (km²):45226.0
+  -------------- 
+ País: Egypt
+ Población: 80471869
+ Área (km²):1001450.0
+  -------------- 
+ País: Western Sahara
+ Población: 273008
+ Área (km²):266000.0
+  -------------- 
+ País: Eritrea
+ Población: 5792984
+ Área (km²):121320.0
+  -------------- 
+ País: Spain
+ Población: 46505963
+ Área (km²):504782.0
+  -------------- 
+ País: Ethiopia
+ Población: 88013491
+ Área (km²):1127127.0
+  -------------- 
+ País: Finland
+ Población: 5244000
+ Área (km²):337030.0
+  -------------- 
+ País: Fiji
+ Población: 875983
+ Área (km²):18270.0
+  -------------- 
+ País: Falkland Islands
+ Población: 2638
+ Área (km²):12173.0
+  -------------- 
+ País: Micronesia
+ Población: 107708
+ Área (km²):702.0
+  -------------- 
+ País: Faroe Islands
+ Población: 48228
+ Área (km²):1399.0
+  -------------- 
+ País: France
+ Población: 64768389
+ Área (km²):547030.0
+  -------------- 
+ País: Gabon
+ Población: 1545255
+ Área (km²):267667.0
+  -------------- 
+ País: United Kingdom
+ Población: 62348447
+ Área (km²):244820.0
+  -------------- 
+ País: Grenada
+ Población: 107818
+ Área (km²):344.0
+  -------------- 
+ País: Georgia
+ Población: 4630000
+ Área (km²):69700.0
+  -------------- 
+ País: French Guiana
+ Población: 195506
+ Área (km²):91000.0
+  -------------- 
+ País: Guernsey
+ Población: 65228
+ Área (km²):78.0
+  -------------- 
+ País: Ghana
+ Población: 24339838
+ Área (km²):239460.0
+  -------------- 
+ País: Gibraltar
+ Población: 27884
+ Área (km²):6.5
+  -------------- 
+ País: Greenland
+ Población: 56375
+ Área (km²):2166086.0
+  -------------- 
+ País: Gambia
+ Población: 1593256
+ Área (km²):11300.0
+  -------------- 
+ País: Guinea
+ Población: 10324025
+ Área (km²):245857.0
+  -------------- 
+ País: Guadeloupe
+ Población: 443000
+ Área (km²):1780.0
+  -------------- 
+ País: Equatorial Guinea
+ Población: 1014999
+ Área (km²):28051.0
+  -------------- 
+ País: Greece
+ Población: 11000000
+ Área (km²):131940.0
+  -------------- 
+ País: South Georgia and the South Sandwich Islands
+ Población: 30
+ Área (km²):3903.0
+  -------------- 
+ País: Guatemala
+ Población: 13550440
+ Área (km²):108890.0
+  -------------- 
+ País: Guam
+ Población: 159358
+ Área (km²):549.0
+  -------------- 
+ País: Guinea-Bissau
+ Población: 1565126
+ Área (km²):36120.0
+  -------------- 
+ País: Guyana
+ Población: 748486
+ Área (km²):214970.0
+  -------------- 
+ País: Hong Kong
+ Población: 6898686
+ Área (km²):1092.0
+  -------------- 
+ País: Heard Island and McDonald Islands
+ Población: 0
+ Área (km²):412.0
+  -------------- 
+ País: Honduras
+ Población: 7989415
+ Área (km²):112090.0
+  -------------- 
+ País: Croatia
+ Población: 4491000
+ Área (km²):56542.0
+  -------------- 
+ País: Haiti
+ Población: 9648924
+ Área (km²):27750.0
+  -------------- 
+ País: Hungary
+ Población: 9982000
+ Área (km²):93030.0
+  -------------- 
+ País: Indonesia
+ Población: 242968342
+ Área (km²):1919440.0
+  -------------- 
+ País: Ireland
+ Población: 4622917
+ Área (km²):70280.0
+  -------------- 
+ País: Israel
+ Población: 7353985
+ Área (km²):20770.0
+  -------------- 
+ País: Isle of Man
+ Población: 75049
+ Área (km²):572.0
+  -------------- 
+ País: India
+ Población: 1173108018
+ Área (km²):3287590.0
+  -------------- 
+ País: British Indian Ocean Territory
+ Población: 4000
+ Área (km²):60.0
+  -------------- 
+ País: Iraq
+ Población: 29671605
+ Área (km²):437072.0
+  -------------- 
+ País: Iran
+ Población: 76923300
+ Área (km²):1648000.0
+  -------------- 
+ País: Iceland
+ Población: 308910
+ Área (km²):103000.0
+  -------------- 
+ País: Italy
+ Población: 60340328
+ Área (km²):301230.0
+  -------------- 
+ País: Jersey
+ Población: 90812
+ Área (km²):116.0
+  -------------- 
+ País: Jamaica
+ Población: 2847232
+ Área (km²):10991.0
+  -------------- 
+ País: Jordan
+ Población: 6407085
+ Área (km²):92300.0
+  -------------- 
+ País: Japan
+ Población: 127288000
+ Área (km²):377835.0
+  -------------- 
+ País: Kenya
+ Población: 40046566
+ Área (km²):582650.0
+  -------------- 
+ País: Kyrgyzstan
+ Población: 5776500
+ Área (km²):198500.0
+  -------------- 
+ País: Cambodia
+ Población: 14453680
+ Área (km²):181040.0
+  -------------- 
+ País: Kiribati
+ Población: 92533
+ Área (km²):811.0
+  -------------- 
+ País: Comoros
+ Población: 773407
+ Área (km²):2170.0
+  -------------- 
+ País: Saint Kitts and Nevis
+ Población: 51134
+ Área (km²):261.0
+  -------------- 
+ País: North Korea
+ Población: 22912177
+ Área (km²):120540.0
+  -------------- 
+ País: South Korea
+ Población: 48422644
+ Área (km²):98480.0
+  -------------- 
+ País: Kuwait
+ Población: 2789132
+ Área (km²):17820.0
+  -------------- 
+ País: Cayman Islands
+ Población: 44270
+ Área (km²):262.0
+  -------------- 
+ País: Kazakhstan
+ Población: 15340000
+ Área (km²):2717300.0
+  -------------- 
+ País: Laos
+ Población: 6368162
+ Área (km²):236800.0
+  -------------- 
+ País: Lebanon
+ Población: 4125247
+ Área (km²):10400.0
+  -------------- 
+ País: Saint Lucia
+ Población: 160922
+ Área (km²):616.0
+  -------------- 
+ País: Liechtenstein
+ Población: 35000
+ Área (km²):160.0
+  -------------- 
+ País: Sri Lanka
+ Población: 21513990
+ Área (km²):65610.0
+  -------------- 
+ País: Liberia
+ Población: 3685076
+ Área (km²):111370.0
+  -------------- 
+ País: Lesotho
+ Población: 1919552
+ Área (km²):30355.0
+  -------------- 
+ País: Lithuania
+ Población: 2944459
+ Área (km²):65200.0
+  -------------- 
+ País: Luxembourg
+ Población: 497538
+ Área (km²):2586.0
+  -------------- 
+ País: Latvia
+ Población: 2217969
+ Área (km²):64589.0
+  -------------- 
+ País: Libya
+ Población: 6461454
+ Área (km²):1759540.0
+  -------------- 
+ País: Morocco
+ Población: 31627428
+ Área (km²):446550.0
+  -------------- 
+ País: Monaco
+ Población: 32965
+ Área (km²):1.95
+  -------------- 
+ País: Moldova
+ Población: 4324000
+ Área (km²):33843.0
+  -------------- 
+ País: Montenegro
+ Población: 666730
+ Área (km²):14026.0
+  -------------- 
+ País: Saint Martin
+ Población: 35925
+ Área (km²):53.0
+  -------------- 
+ País: Madagascar
+ Población: 21281844
+ Área (km²):587040.0
+  -------------- 
+ País: Marshall Islands
+ Población: 65859
+ Área (km²):181.3
+  -------------- 
+ País: Macedonia
+ Población: 2062294
+ Área (km²):25333.0
+  -------------- 
+ País: Mali
+ Población: 13796354
+ Área (km²):1240000.0
+  -------------- 
+ País: Myanmar [Burma]
+ Población: 53414374
+ Área (km²):678500.0
+  -------------- 
+ País: Mongolia
+ Población: 3086918
+ Área (km²):1565000.0
+  -------------- 
+ País: Macao
+ Población: 449198
+ Área (km²):254.0
+  -------------- 
+ País: Northern Mariana Islands
+ Población: 53883
+ Área (km²):477.0
+  -------------- 
+ País: Martinique
+ Población: 432900
+ Área (km²):1100.0
+  -------------- 
+ País: Mauritania
+ Población: 3205060
+ Área (km²):1030700.0
+  -------------- 
+ País: Montserrat
+ Población: 9341
+ Área (km²):102.0
+  -------------- 
+ País: Malta
+ Población: 403000
+ Área (km²):316.0
+  -------------- 
+ País: Mauritius
+ Población: 1294104
+ Área (km²):2040.0
+  -------------- 
+ País: Maldives
+ Población: 395650
+ Área (km²):300.0
+  -------------- 
+ País: Malawi
+ Población: 15447500
+ Área (km²):118480.0
+  -------------- 
+ País: Mexico
+ Población: 112468855
+ Área (km²):1972550.0
+  -------------- 
+ País: Malaysia
+ Población: 28274729
+ Área (km²):329750.0
+  -------------- 
+ País: Mozambique
+ Población: 22061451
+ Área (km²):801590.0
+  -------------- 
+ País: Namibia
+ Población: 2128471
+ Área (km²):825418.0
+  -------------- 
+ País: New Caledonia
+ Población: 216494
+ Área (km²):19060.0
+  -------------- 
+ País: Niger
+ Población: 15878271
+ Área (km²):1267000.0
+  -------------- 
+ País: Norfolk Island
+ Población: 1828
+ Área (km²):34.6
+  -------------- 
+ País: Nigeria
+ Población: 154000000
+ Área (km²):923768.0
+  -------------- 
+ País: Nicaragua
+ Población: 5995928
+ Área (km²):129494.0
+  -------------- 
+ País: Netherlands
+ Población: 16645000
+ Área (km²):41526.0
+  -------------- 
+ País: Norway
+ Población: 5009150
+ Área (km²):324220.0
+  -------------- 
+ País: Nepal
+ Población: 28951852
+ Área (km²):140800.0
+  -------------- 
+ País: Nauru
+ Población: 10065
+ Área (km²):21.0
+  -------------- 
+ País: Niue
+ Población: 2166
+ Área (km²):260.0
+  -------------- 
+ País: New Zealand
+ Población: 4252277
+ Área (km²):268680.0
+  -------------- 
+ País: Oman
+ Población: 2967717
+ Área (km²):212460.0
+  -------------- 
+ País: Panama
+ Población: 3410676
+ Área (km²):78200.0
+  -------------- 
+ País: Peru
+ Población: 29907003
+ Área (km²):1285220.0
+  -------------- 
+ País: French Polynesia
+ Población: 270485
+ Área (km²):4167.0
+  -------------- 
+ País: Papua New Guinea
+ Población: 6064515
+ Área (km²):462840.0
+  -------------- 
+ País: Philippines
+ Población: 99900177
+ Área (km²):300000.0
+  -------------- 
+ País: Pakistan
+ Población: 184404791
+ Área (km²):803940.0
+  -------------- 
+ País: Poland
+ Población: 38500000
+ Área (km²):312685.0
+  -------------- 
+ País: Saint Pierre and Miquelon
+ Población: 7012
+ Área (km²):242.0
+  -------------- 
+ País: Pitcairn Islands
+ Población: 46
+ Área (km²):47.0
+  -------------- 
+ País: Puerto Rico
+ Población: 3916632
+ Área (km²):9104.0
+  -------------- 
+ País: Palestine
+ Población: 3800000
+ Área (km²):5970.0
+  -------------- 
+ País: Portugal
+ Población: 10676000
+ Área (km²):92391.0
+  -------------- 
+ País: Palau
+ Población: 19907
+ Área (km²):458.0
+  -------------- 
+ País: Paraguay
+ Población: 6375830
+ Área (km²):406750.0
+  -------------- 
+ País: Qatar
+ Población: 840926
+ Área (km²):11437.0
+  -------------- 
+ País: Réunion
+ Población: 776948
+ Área (km²):2517.0
+  -------------- 
+ País: Romania
+ Población: 21959278
+ Área (km²):237500.0
+  -------------- 
+ País: Serbia
+ Población: 7344847
+ Área (km²):88361.0
+  -------------- 
+ País: Russia
+ Población: 140702000
+ Área (km²):1.71E7
+  -------------- 
+ País: Rwanda
+ Población: 11055976
+ Área (km²):26338.0
+  -------------- 
+ País: Saudi Arabia
+ Población: 25731776
+ Área (km²):1960582.0
+  -------------- 
+ País: Solomon Islands
+ Población: 559198
+ Área (km²):28450.0
+  -------------- 
+ País: Seychelles
+ Población: 88340
+ Área (km²):455.0
+  -------------- 
+ País: Sudan
+ Población: 35000000
+ Área (km²):1861484.0
+  -------------- 
+ País: Sweden
+ Población: 9828655
+ Área (km²):449964.0
+  -------------- 
+ País: Singapore
+ Población: 4701069
+ Área (km²):692.7
+  -------------- 
+ País: Saint Helena
+ Población: 7460
+ Área (km²):410.0
+  -------------- 
+ País: Slovenia
+ Población: 2007000
+ Área (km²):20273.0
+  -------------- 
+ País: Svalbard and Jan Mayen
+ Población: 2550
+ Área (km²):62049.0
+  -------------- 
+ País: Slovakia
+ Población: 5455000
+ Área (km²):48845.0
+  -------------- 
+ País: Sierra Leone
+ Población: 5245695
+ Área (km²):71740.0
+  -------------- 
+ País: San Marino
+ Población: 31477
+ Área (km²):61.2
+  -------------- 
+ País: Senegal
+ Población: 12323252
+ Área (km²):196190.0
+  -------------- 
+ País: Somalia
+ Población: 10112453
+ Área (km²):637657.0
+  -------------- 
+ País: Suriname
+ Población: 492829
+ Área (km²):163270.0
+  -------------- 
+ País: South Sudan
+ Población: 8260490
+ Área (km²):644329.0
+  -------------- 
+ País: São Tomé and Príncipe
+ Población: 175808
+ Área (km²):1001.0
+  -------------- 
+ País: El Salvador
+ Población: 6052064
+ Área (km²):21040.0
+  -------------- 
+ País: Sint Maarten
+ Población: 37429
+ Área (km²):21.0
+  -------------- 
+ País: Syria
+ Población: 22198110
+ Área (km²):185180.0
+  -------------- 
+ País: Swaziland
+ Población: 1354051
+ Área (km²):17363.0
+  -------------- 
+ País: Turks and Caicos Islands
+ Población: 20556
+ Área (km²):430.0
+  -------------- 
+ País: Chad
+ Población: 10543464
+ Área (km²):1284000.0
+  -------------- 
+ País: French Southern Territories
+ Población: 140
+ Área (km²):7829.0
+  -------------- 
+ País: Togo
+ Población: 6587239
+ Área (km²):56785.0
+  -------------- 
+ País: Thailand
+ Población: 67089500
+ Área (km²):514000.0
+  -------------- 
+ País: Tajikistan
+ Población: 7487489
+ Área (km²):143100.0
+  -------------- 
+ País: Tokelau
+ Población: 1466
+ Área (km²):10.0
+  -------------- 
+ País: East Timor
+ Población: 1154625
+ Área (km²):15007.0
+  -------------- 
+ País: Turkmenistan
+ Población: 4940916
+ Área (km²):488100.0
+  -------------- 
+ País: Tunisia
+ Población: 10589025
+ Área (km²):163610.0
+  -------------- 
+ País: Tonga
+ Población: 122580
+ Área (km²):748.0
+  -------------- 
+ País: Turkey
+ Población: 77804122
+ Área (km²):780580.0
+  -------------- 
+ País: Trinidad and Tobago
+ Población: 1228691
+ Área (km²):5128.0
+  -------------- 
+ País: Tuvalu
+ Población: 10472
+ Área (km²):26.0
+  -------------- 
+ País: Taiwan
+ Población: 22894384
+ Área (km²):35980.0
+  -------------- 
+ País: Tanzania
+ Población: 41892895
+ Área (km²):945087.0
+  -------------- 
+ País: Ukraine
+ Población: 45415596
+ Área (km²):603700.0
+  -------------- 
+ País: Uganda
+ Población: 33398682
+ Área (km²):236040.0
+  -------------- 
+ País: U.S. Minor Outlying Islands
+ Población: 0
+ Área (km²):0.0
+  -------------- 
+ País: United States
+ Población: 310232863
+ Área (km²):9629091.0
+  -------------- 
+ País: Uruguay
+ Población: 3477000
+ Área (km²):176220.0
+  -------------- 
+ País: Uzbekistan
+ Población: 27865738
+ Área (km²):447400.0
+  -------------- 
+ País: Vatican City
+ Población: 921
+ Área (km²):0.44
+  -------------- 
+ País: Saint Vincent and the Grenadines
+ Población: 104217
+ Área (km²):389.0
+  -------------- 
+ País: Venezuela
+ Población: 27223228
+ Área (km²):912050.0
+  -------------- 
+ País: British Virgin Islands
+ Población: 21730
+ Área (km²):153.0
+  -------------- 
+ País: U.S. Virgin Islands
+ Población: 108708
+ Área (km²):352.0
+  -------------- 
+ País: Vietnam
+ Población: 89571130
+ Área (km²):329560.0
+  -------------- 
+ País: Vanuatu
+ Población: 221552
+ Área (km²):12200.0
+  -------------- 
+ País: Wallis and Futuna
+ Población: 16025
+ Área (km²):274.0
+  -------------- 
+ País: Samoa
+ Población: 192001
+ Área (km²):2944.0
+  -------------- 
+ País: Kosovo
+ Población: 1800000
+ Área (km²):10908.0
+  -------------- 
+ País: Yemen
+ Población: 23495361
+ Área (km²):527970.0
+  -------------- 
+ País: Mayotte
+ Población: 159042
+ Área (km²):374.0
+  -------------- 
+ País: South Africa
+ Población: 49000000
+ Área (km²):1219912.0
+  -------------- 
+ País: Zambia
+ Población: 13460305
+ Área (km²):752614.0
+  -------------- 
+ País: Zimbabwe
+ Población: 11651858
+ Área (km²):390580.0
+  -------------- 
