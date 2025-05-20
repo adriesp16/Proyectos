@@ -1,0 +1,80 @@
+import requests
+import json
+import base64
+import pandas as pd
+from bs4 import BeautifulSoup
+
+
+# DEMANAR A L’USUARI
+anime_query = input('Introdueix el nom de l’anime: ')
+
+# FER REQUEST A JIKAN API
+search_url = f'https://api.jikan.moe/v4/anime'
+params = {'q': anime_query, 'limit': 4}
+response = requests.get(search_url, params=params)
+
+if response.status_code != 200:
+    print(f'Error obtenint dades de Jikan API: {response.status_code}')
+
+    
+if response.status_code == 200:
+    
+        
+    data = response.json()
+    
+    #Cremoas la ruta en donde mandaremos la información
+    info_path = r'Anime\info\info_anime.json'
+    
+    #Creamos listas vacias de los valores que queremos pillar de la API
+    titles = []
+    synopsies =[]
+    episodes = []
+    ratings = []
+    popularities = []
+    URLs = []
+    scores = []
+    
+    with open(info_path, "w", encoding= "utf-8") as f: 
+        #Hacemo sun bucle para capturar la informacion que queremos dentro de data       
+        for i in range(len(data["data"])):
+            
+            #Capturamos el la información que hay dentro  data
+            title =  data["data"][i]["title"]
+            Synopsies = data["data"][i]["synopsis"]
+            ep = data["data"][i]["episodes"]
+            rating = data["data"][i]["rating"]
+            popularity = data["data"][i]["popularity"]
+            url = data["data"][i]["url"]
+            sc = data["data"][i]["score"]
+            
+            #Pasamos lo que capturamos a las listas
+            titles.append(title),
+            synopsies.append(Synopsies)
+            episodes.append(ep)
+            scores.append(sc)
+            popularities.append(popularity)
+            URLs.append(url)
+            
+    #Hacemos que nos muestre en terminal de forma mas ordenada la información
+    df = pd.DataFrame ({
+        "Title": titles,
+        "Synopsis": synopsies,
+        "Score":scores,
+        "Episodes": episodes,
+        "Popularity": popularities,
+        "URL": URLs
+        
+        }) 
+    print(df)
+
+#Pasa df a json y lo pone en "file_route"
+    df.to_json(info_path, orient="records", indent=4)
+
+    
+
+exit(1)
+
+results = response.json()
+if not results['data']:
+    print('No s’ha trobat cap resultat.')
+exit(1)
